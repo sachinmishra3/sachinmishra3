@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking for collaborattion on a wordpress plugin [Last Login Info](https://wordpress.org/plugins/last-login-on-dashboard/)
 - 📫 How to reach me: sachinmishra3@outlook.com
-- 👜 Currently I am working as a Project Manager at Cybernext Pvt Ltd 
+- 🏢 Currently I am working as a Project Manager at Cybernext Pvt Ltd 
